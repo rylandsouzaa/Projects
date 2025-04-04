@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+17:08:34	52/52	---MCZ	200	added ('OK')	text/plain	etag:W/%2267c1aa3f-1a%22	https://aisite.10web.io/robots.txt		(from )
+17:08:35	196980/196980	---MCZ	200	added ('OK')	text/html	date:Fri,%2004%20Apr%202025%2011:38:34%20GMT	https://aisite.10web.io/20/regularly-great-cow/	C:/My%20Web%20Sites/Rylan%20College%20project/aisite.10web.io/20/regularly-great-cow/index.html	(from )
